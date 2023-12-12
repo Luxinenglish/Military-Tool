@@ -8,7 +8,12 @@ currently being supported with security updates.
 | NAME | Version | Supported |
 |------|---------|-----------|
 |Python| 3.12.1  | ☑️        |
-|------------OS--------------|
+
+|OS| Supported|
+|---------------------------|
+|Kali| ☑️|
+|Ubuntu 23.10 | ☑️|
+|Windows
 
 ## Reporting a Vulnerability
 
