@@ -10,10 +10,10 @@ currently being supported with security updates.
 |Python| 3.12.1  | ☑️        |
 
 |OS| Supported|
-|---------------------------|
+|--------|-------------------|
 |Kali| ☑️|
 |Ubuntu 23.10 | ☑️|
-|Windows
+|Windows | ❎|
 
 ## Reporting a Vulnerability
 
